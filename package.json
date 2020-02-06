@@ -1,0 +1,24 @@
+{
+  "name": "therepo",
+  "version": "1.0.0",
+  "description": "showing its working",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thismakesnosense/THErepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thismakesnosense/THErepo/issues"
+  },
+  "homepage": "https://github.com/thismakesnosense/THErepo#readme"
+}
